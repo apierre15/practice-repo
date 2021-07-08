@@ -1,27 +1,22 @@
-## First Name Last Name
+## Arianna Pierre
 
-### Term Year 
+### 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- COP2073
 
-- Course 2
-
-- Course 3
-
-- Course 4
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Art
 
-- Thing 2
+- Math
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Mechanical Engineering
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/01/15
