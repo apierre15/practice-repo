@@ -17,6 +17,10 @@ I am _passionate about_:
 
 - Mechanical Engineering
 
+
+| Prefix | Number | Name | Credit |
+|:------:|:------:|:----:|:------:|
+| **COP** | **2073** | _Introduction to Data Science_ |    3  |
 ***
 
 > Last modified: 2021/07/08
